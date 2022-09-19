@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/demo3/demo3",
+    "pages/demo2/demo2",
+    "pages/demo/demo",
+    "pages/list/list",
+    "pages/about/about",
+    "pages/demo4/demo4"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni系列课程",
+    "navigationBarBackgroundColor": "#F7F7F7",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#015FF9",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home-h.png"
+      },
+      {
+        "text": "列表",
+        "pagePath": "pages/list/list",
+        "iconPath": "static/images/tabbar/list.png",
+        "selectedIconPath": "static/images/tabbar/list-h.png"
+      },
+      {
+        "text": "我们",
+        "pagePath": "pages/about/about",
+        "iconPath": "static/images/tabbar/user.png",
+        "selectedIconPath": "static/images/tabbar/user-h.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

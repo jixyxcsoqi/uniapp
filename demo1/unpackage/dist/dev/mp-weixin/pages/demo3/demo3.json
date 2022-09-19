@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "demo3测试",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "myitem": "/components/myitem/myitem"
+  }
+}

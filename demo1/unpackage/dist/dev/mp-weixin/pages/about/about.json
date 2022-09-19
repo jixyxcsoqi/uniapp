@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "关于我们",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pub-title": "/components/pubTitle/pubTitle",
+    "myevent": "/components/myevent/myevent",
+    "mypop": "/components/mypop/mypop"
+  }
+}

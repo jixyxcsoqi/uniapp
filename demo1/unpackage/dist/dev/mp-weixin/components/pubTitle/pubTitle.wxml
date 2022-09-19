@@ -1,0 +1,1 @@
+<view class="pubTitle"><view class="time">{{time}}</view><view class="big">{{title}}</view><view class="small">{{subtitle}}</view><view>{{list}}</view><view>{{user}}</view><view class="line"></view></view>
