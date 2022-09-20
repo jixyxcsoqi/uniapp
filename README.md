@@ -2,7 +2,7 @@
 
 
 ### 项目介绍
-{  零基础入手uniapp，学习过程中的源码开发，课程从vue语法、小程序文档与uni文档的差异化、API 调用、综合性的实例项目、打包到不同类型的平台等知识点的学习，循序渐进的掌握uni-app，学习视频地址：https://www.bilibili.com/video/BV1aU4y1k7v7   }
+{  零基础入手uniapp，学习过程中的源码开发，课程从vue语法、小程序文档与uni文档的差异化、API 调用、综合性的实例项目、打包到不同类型的平台等知识点的学习，循序渐进的掌握uni-app，学习视频地址：https://www.bilibili.com/video/BV1mT411K7nW   }
 
 
 
