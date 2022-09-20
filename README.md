@@ -6,6 +6,14 @@
 
 
 
+### 源码仓库地址
+
+> gitee地址
+>
+> https://gitee.com/qingnian8/uniapp-ling_project
+
+
+
 ### 学习交流群
 > QQ群：770479352
 
