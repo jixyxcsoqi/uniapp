@@ -1,3 +1,5 @@
+#### 该仓库不再更新，请移步[最新仓库](https://gitee.com/qingnian8/uniall/tree/master/uniappBase)
+
 # uni零基础到青年帮新闻项目
 
 
@@ -45,7 +47,7 @@ https://note.youdao.com/s/3ynQdE6b
 
 ![详情页](%E6%95%88%E6%9E%9C%E5%9B%BE/%E8%AF%A6%E6%83%85.jpg)
 
-# 更多文档，请移步[最新uniapp仓库](https://gitee.com/qingnian8/uniall/tree/master/uniapp%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
+
 
 
 
