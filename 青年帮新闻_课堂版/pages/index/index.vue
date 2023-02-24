@@ -33,6 +33,7 @@
 				navArr:[],
 				newsArr:[],
 				currentPage:1,
+				currentId:50,
 				loading:0       //0默认  1加载中  2没有更多了
 			}
 		},
@@ -54,7 +55,8 @@
 			//点击导航切换
 			clickNav(index,id){
 				this.navIndex=index;	
-				this.currentPage=1;				
+				this.currentPage=1;	
+				this.currentId=id;			
 				this.newsArr=[]
 				this.loading=0;
 				this.getNewsData(id);
@@ -79,11 +81,11 @@
 			},
 			
 			//获取新闻列表数据
-			getNewsData(id=50){
+			getNewsData(){
 				uni.request({
 					url:"https://ku.qingnian8.com/dataApi/news/newslist.php",
 					data:{						
-						cid:id,
+						cid:this.currentId,
 						page:this.currentPage
 					},
 					success:res=>{
